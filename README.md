@@ -16,3 +16,9 @@ In the Home page, you will see 1 buttons in the bottom right of the application.
 <img src="https://i.ibb.co/rs8YvY0/Screenshot-274.png" alt="Screenshot-274" border="0">
 <img src="https://i.ibb.co/G7qHJvY/Screenshot-273.png" alt="Screenshot-273" border="0">
 <img src="https://i.ibb.co/7v9BFFv/Screenshot-272.png" alt="Screenshot-272" border="0">
+
+<h3>How to Run Code</h3>
+1.Download MedReminder.zip and unzip
+2.Open the project on Android Studio
+3.Downloaded Needed Sdk Tools version (29.0.3)
+4.Build and Run the app in emulator.
